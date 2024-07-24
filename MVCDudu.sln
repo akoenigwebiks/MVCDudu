@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDudu", "MVCDudu.csproj", "{6FB2B876-90A3-469E-80AD-FB6C20CB6432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB2B876-90A3-469E-80AD-FB6C20CB6432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB2B876-90A3-469E-80AD-FB6C20CB6432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB2B876-90A3-469E-80AD-FB6C20CB6432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB2B876-90A3-469E-80AD-FB6C20CB6432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7ABA844-CC7E-43F3-9E08-D345AB05D975}
+	EndGlobalSection
+EndGlobal
